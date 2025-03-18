@@ -1,0 +1,2 @@
+Date,Prompt,Response,Motivation,Time
+"2025-03-17","Who was the most interesting person I interacted with today?","My Neigbour in the market aquire in the market hurts","Yes","Yes"
