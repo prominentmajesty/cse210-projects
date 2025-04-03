@@ -1,7 +1,7 @@
 
 /* In my creativity exceeding requirment, I did the following
 
-    I created a class called ScriptureLibrary which contains the cods that create a liberary of scriptures and also the codes that Choose scriptures at random to present to the user and a menu system to navigate between options.
+    I created a class called ScriptureLibrary which contains the codes that create a liberary of scriptures and also the codes that Choose scriptures at random to present to the user and a menu system to navigate between options.
 
     1. I created a Program class in which in the Main methos, I prompted the user with options to either Practice a random scripture by pressing 1 or Add a new scripture by pressing 2 or exit by pressing 3
     or choose option. This is what the program will first show the user when the user first lunch the program. Then when the user selects an option, the user can now continue with program.    
