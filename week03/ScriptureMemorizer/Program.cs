@@ -1,6 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.IO;
 
 /* In my creativity exceeding requirment, I did the following
 
@@ -10,6 +7,9 @@ using System.IO;
     or choose option. This is what the program will first show the user when the user first lunch the program. Then when the user selects an option, the user can now continue with program.    
     
 */
+using System;
+using System.Collections.Generic;
+using System.IO;
 
 // Single word in the script
 public class ScriptureWord
